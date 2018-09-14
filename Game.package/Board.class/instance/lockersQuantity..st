@@ -1,3 +1,3 @@
 instance initialization
-withLockers: aLockersQuantity 
+lockersQuantity: aLockersQuantity 
 	lockers:=aLockersQuantity .

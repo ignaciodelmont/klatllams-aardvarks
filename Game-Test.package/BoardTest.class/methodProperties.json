@@ -1,6 +1,7 @@
 {
 	"instance" : {
-		"testBoardExistsAndHas50Lockers" : "klatllamsaardvarks 9/14/2018 02:04"
+		"testBoardCannotHaveLessThan50Lockers" : "klatllamsaardvarks 9/14/2018 15:44",
+		"testBoardExistsAndHas50Lockers" : "klatllamsaardvarks 9/14/2018 15:47"
 	},
 	"class" : { }
 }

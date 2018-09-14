@@ -1,5 +1,5 @@
 {
-	"commentStamp" : "",
+	"commentStamp" : "<historical>",
 	"super" : "Object",
 	"category" : "Game",
 	"classinstvars" : [ ],
@@ -8,7 +8,9 @@
 	"instvars" : [
 		"players",
 		"dices",
-		"board"
+		"board",
+		"hasFinished",
+		"playerNumber"
 	],
 	"name" : "Game",
 	"type" : "normal"

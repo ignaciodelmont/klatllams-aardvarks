@@ -1,0 +1,3 @@
+accesing
+hasFinished
+	^hasFinished.

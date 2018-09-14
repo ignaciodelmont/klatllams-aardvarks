@@ -1,6 +1,7 @@
 {
 	"instance" : {
-		"testPlayerExistsAndHasAName" : "klatllamsaardvarks 9/14/2018 02:16"
+		"testPlayerExistsAndHasAName" : "klatllamsaardvarks 9/14/2018 15:48",
+		"testPlayerNameCannotHaveLessThan2Characters" : "klatllamsaardvarks 9/14/2018 15:49"
 	},
 	"class" : { }
 }

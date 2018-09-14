@@ -1,9 +1,10 @@
 {
 	"instance" : {
-		"testDiceCannotHaveMoreThan24FacesAndMoreThan4" : "klatllamsaardvarks 9/5/2018 22:09",
-		"testDiceExists" : "klatllamsaardvarks 9/5/2018 20:46",
-		"testDiceHas4Faces" : "klatllamsaardvarks 9/5/2018 22:11",
-		"testDiceHas5FacesAndHasFaceNumber2" : "klatllamsaardvarks 9/5/2018 21:59"
+		"testDiceHas4Faces" : "klatllamsaardvarks 9/14/2018 15:42",
+		"testDiceExists" : "klatllamsaardvarks 9/14/2018 15:41",
+		"testDiceHas5FacesAndHasFaceNumber2" : "klatllamsaardvarks 9/14/2018 15:43",
+		"testDiceCannotHaveMoreThan24FacesAndMoreThan4" : "klatllamsaardvarks 9/14/2018 15:40",
+		"testDiceCanRollAndTheResultIsBetween1AndFacesQuantity" : "klatllamsaardvarks 9/14/2018 15:39"
 	},
 	"class" : { }
 }

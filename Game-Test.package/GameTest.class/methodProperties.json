@@ -1,6 +1,10 @@
 {
 	"instance" : {
-		"testGameExistsAndHasTwoDicesAndTwoPlayersAndBoard" : "klatllamsaardvarks 9/14/2018 02:46"
+		"testAPlayerCannotPlayTwoTimesInARow" : "klatllamsaardvarks 9/14/2018 15:35",
+		"testCannotHaveLessThan2PlayersOrlessThan1Dice" : "klatllamsaardvarks 9/14/2018 15:27",
+		"testGameIsNotFinishedIfNobodyHasPlayed" : "klatllamsaardvarks 9/14/2018 15:34",
+		"testWhenGameStartsTheFirstPlayerHasTheTurn" : "klatllamsaardvarks 9/14/2018 15:38",
+		"testGameExistsAndHasTwoDicesAndTwoPlayersAndBoard" : "klatllamsaardvarks 9/14/2018 15:35"
 	},
 	"class" : { }
 }
