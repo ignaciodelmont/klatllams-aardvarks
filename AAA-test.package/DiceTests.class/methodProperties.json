@@ -1,0 +1,9 @@
+{
+	"instance" : {
+		"testDiceCannotHaveMoreThan24FacesAndMoreThan4" : "klatllamsaardvarks 9/5/2018 22:09",
+		"testDiceExists" : "klatllamsaardvarks 9/5/2018 20:46",
+		"testDiceHas4Faces" : "klatllamsaardvarks 9/5/2018 22:11",
+		"testDiceHas5FacesAndHasFaceNumber2" : "klatllamsaardvarks 9/5/2018 21:59"
+	},
+	"class" : { }
+}

@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "AAA",
+	"classinstvars" : [
+		"facesQuantity"
+	],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"facesQuantity"
+	],
+	"name" : "Dice",
+	"type" : "normal"
+}
