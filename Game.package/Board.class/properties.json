@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Object",
+	"category" : "Game",
+	"classinstvars" : [
+		"lockers"
+	],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"lockers"
+	],
+	"name" : "Board",
+	"type" : "normal"
+}

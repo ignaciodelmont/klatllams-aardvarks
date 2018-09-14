@@ -1,15 +1,15 @@
 {
 	"commentStamp" : "",
 	"super" : "Object",
-	"category" : "AAA",
-	"classinstvars" : [
-		"facesQuantity"
-	],
+	"category" : "Game",
+	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"facesQuantity"
+		"players",
+		"dices",
+		"board"
 	],
-	"name" : "Dice",
+	"name" : "Game",
 	"type" : "normal"
 }

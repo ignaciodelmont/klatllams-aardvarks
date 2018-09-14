@@ -1,11 +1,11 @@
 {
 	"commentStamp" : "",
 	"super" : "TestCase",
-	"category" : "AAA-test",
+	"category" : "Game-Test",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [ ],
-	"name" : "DiceTests",
+	"name" : "PlayerTest",
 	"type" : "normal"
 }
