@@ -1,0 +1,3 @@
+accesing
+playersQuantity
+	^ players size.

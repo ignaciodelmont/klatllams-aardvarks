@@ -1,5 +1,6 @@
 {
 	"instance" : {
+		"testAPlayerCanRollACollectionOfDicesAndResultIsLessOrEqual11" : "klatllamsaardvarks 9/14/2018 22:50",
 		"testPlayerExistsAndHasAName" : "klatllamsaardvarks 9/14/2018 15:48",
 		"testPlayerNameCannotHaveLessThan2Characters" : "klatllamsaardvarks 9/14/2018 15:49"
 	},

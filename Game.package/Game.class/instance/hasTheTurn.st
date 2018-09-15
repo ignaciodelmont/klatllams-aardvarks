@@ -1,3 +1,3 @@
 accesing
 hasTheTurn
-	^ players at: playerNumber.
+	^ players at: nextPlayer.

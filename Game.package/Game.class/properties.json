@@ -10,7 +10,7 @@
 		"dices",
 		"board",
 		"hasFinished",
-		"playerNumber"
+		"nextPlayer"
 	],
 	"name" : "Game",
 	"type" : "normal"

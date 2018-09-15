@@ -1,9 +1,12 @@
 {
 	"instance" : {
-		"lockersQuantity:" : "klatllamsaardvarks 9/14/2018 13:03",
-		"lockers" : "klatllamsaardvarks 9/14/2018 01:53"
+		"playersQuantity" : "klatllamsaardvarks 9/15/2018 00:33",
+		"movePlayer:positions:" : "klatllamsaardvarks 9/15/2018 00:47",
+		"playerPosition:" : "klatllamsaardvarks 9/15/2018 00:27",
+		"lockers" : "klatllamsaardvarks 9/14/2018 01:53",
+		"lockersQuantity:players:" : "klatllamsaardvarks 9/15/2018 00:26"
 	},
 	"class" : {
-		"lockersQuantity:" : "klatllamsaardvarks 9/14/2018 13:21"
+		"lockersQuantity:players:" : "klatllamsaardvarks 9/14/2018 23:12"
 	}
 }

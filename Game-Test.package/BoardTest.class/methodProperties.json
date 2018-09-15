@@ -1,7 +1,10 @@
 {
 	"instance" : {
-		"testBoardCannotHaveLessThan50Lockers" : "klatllamsaardvarks 9/14/2018 15:44",
-		"testBoardExistsAndHas50Lockers" : "klatllamsaardvarks 9/14/2018 15:47"
+		"testAPlayerCanMoveItsPositionOnBoardBy10Lockers" : "klatllamsaardvarks 9/15/2018 00:40",
+		"testAllThePlayersStartInPositionZeroWhenTheGameStarts" : "klatllamsaardvarks 9/15/2018 00:31",
+		"testBoardCannotHaveLessThan50LockersAndMoreThan2Players" : "klatllamsaardvarks 9/14/2018 23:22",
+		"testAPlayerCannotMoveLessThan1Position" : "klatllamsaardvarks 9/15/2018 00:45",
+		"testBoardExistsAndHas50LockersAnd2Players" : "klatllamsaardvarks 9/15/2018 00:33"
 	},
 	"class" : { }
 }

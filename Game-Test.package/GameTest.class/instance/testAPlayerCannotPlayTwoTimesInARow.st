@@ -1,8 +1,7 @@
 tests
 testAPlayerCannotPlayTwoTimesInARow
-	"initial game setup"
+	"not finished!!"
 	|game board playerOne playerTwo diceOne diceTwo playersList dicesList|
-	board:= Board lockersQuantity:100.
 	playersList:= OrderedCollection new.
 	dicesList := OrderedCollection new.
 	playerOne:= Player name: 'Hector'.
@@ -11,6 +10,6 @@ testAPlayerCannotPlayTwoTimesInARow
 	diceTwo := Dice facesQuantity:12.
 	playersList add: playerOne; add: playerTwo .
 	dicesList add: diceOne; add: diceTwo .
+	board:= Board lockersQuantity:100 players: playersList.
 	game:= Game players:playersList dices:dicesList board:board. 
-	"Test start here"
 	

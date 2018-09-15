@@ -4,4 +4,4 @@ initializeWithPlayers: aPlayersCollection initializeWithDices: aDicesCollection 
 	dices:= aDicesCollection .
 	board:= aBoard .
 	hasFinished := false.
-	playerNumber := 1.
+	nextPlayer := 1.
