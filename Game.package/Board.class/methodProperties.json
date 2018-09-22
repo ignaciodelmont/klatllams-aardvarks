@@ -1,12 +1,13 @@
 {
 	"instance" : {
 		"playersQuantity" : "klatllamsaardvarks 9/15/2018 00:33",
-		"movePlayer:positions:" : "klatllamsaardvarks 9/15/2018 00:47",
+		"players" : "ignaciodelmont 9/19/2018 21:22",
 		"playerPosition:" : "klatllamsaardvarks 9/15/2018 00:27",
-		"lockers" : "klatllamsaardvarks 9/14/2018 01:53",
-		"lockersQuantity:players:" : "klatllamsaardvarks 9/15/2018 00:26"
+		"movePlayer:positions:" : "klatllamsaardvarks 9/15/2018 00:47",
+		"spacesQuantity:players:" : "ignaciodelmont 9/19/2018 21:55",
+		"spaces" : "ignaciodelmont 9/19/2018 15:37"
 	},
 	"class" : {
-		"lockersQuantity:players:" : "klatllamsaardvarks 9/14/2018 23:12"
+		"spacesQuantity:players:" : "ignaciodelmont 9/19/2018 21:20"
 	}
 }

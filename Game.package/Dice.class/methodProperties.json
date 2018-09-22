@@ -1,11 +1,16 @@
 {
 	"instance" : {
-		"initializeWithFacesQuantity:" : "klatllamsaardvarks 9/5/2018 21:00",
+		"initializeWithFacesQuantity:" : "ignaciodelmont 9/19/2018 15:28",
+		"facesQuantity" : "klatllamsaardvarks 9/5/2018 21:01",
 		"faces" : "klatllamsaardvarks 9/5/2018 21:28",
-		"roll" : "klatllamsaardvarks 9/15/2018 00:56",
-		"facesQuantity" : "klatllamsaardvarks 9/5/2018 21:01"
+		"randomStateRoll" : "ignaciodelmont 9/19/2018 15:07",
+		"initializeWithFacesQuantity:initializeWithState:" : "ignaciodelmont 9/19/2018 14:42",
+		"deterministicStateRoll" : "ignaciodelmont 9/19/2018 15:24",
+		"roll" : "ignaciodelmont 9/19/2018 15:01",
+		"state" : "ignaciodelmont 9/19/2018 14:46"
 	},
 	"class" : {
+		"facesQuantity:state:" : "ignaciodelmont 9/19/2018 14:39",
 		"facesQuantity:" : "klatllamsaardvarks 9/5/2018 22:10"
 	}
 }

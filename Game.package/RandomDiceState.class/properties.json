@@ -2,15 +2,12 @@
 	"commentStamp" : "",
 	"super" : "Object",
 	"category" : "Game",
-	"classinstvars" : [
-		"lockers"
-	],
+	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"players",
-		"spaces"
+		"name"
 	],
-	"name" : "Board",
+	"name" : "RandomDiceState",
 	"type" : "normal"
 }

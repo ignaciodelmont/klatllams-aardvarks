@@ -8,7 +8,8 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"facesQuantity"
+		"facesQuantity",
+		"state"
 	],
 	"name" : "Dice",
 	"type" : "normal"
