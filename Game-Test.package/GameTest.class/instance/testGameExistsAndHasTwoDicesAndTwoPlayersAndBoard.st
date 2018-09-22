@@ -10,6 +10,6 @@ testGameExistsAndHasTwoDicesAndTwoPlayersAndBoard
 	diceTwo := Dice facesQuantity:12.
 	playersList add: playerOne ; add: playerTwo .
 	dicesList add: diceOne ; add: diceTwo.
-	board:= Board lockersQuantity:100 players:playersList.
+	board:= Board spacesQuantity:100 players:playersList.
 	game:= Game players:playersList dices:dicesList board:board. 
 	

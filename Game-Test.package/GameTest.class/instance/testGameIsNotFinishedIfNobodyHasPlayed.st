@@ -9,6 +9,6 @@ testGameIsNotFinishedIfNobodyHasPlayed
 	diceOne := Dice facesQuantity:10.
 	playersList add: playerOne ; add: playerTwo.
 	dicesList add: diceOne .
-	board:= Board lockersQuantity:100 players:playersList.
+	board:= Board spacesQuantity:100 players:playersList.
 	game:= Game players:playersList dices:dicesList board:board. 
 	self deny: game hasFinished.

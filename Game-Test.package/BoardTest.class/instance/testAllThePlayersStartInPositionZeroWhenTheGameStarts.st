@@ -6,6 +6,6 @@ testAllThePlayersStartInPositionZeroWhenTheGameStarts
 	playerOne:= Player name: 'Hector'.
 	playerTwo := Player name: 'Ignacio'.
 	playersList add: playerOne ; add: playerTwo .
-	board:= Board lockersQuantity: 50 players:playersList .
+	board:= Board spacesQuantity: 50 players:playersList .
 	self assert: (board playerPosition: playerOne) equals: 0.
 	self assert:( board playerPosition: playerTwo) equals: 0.

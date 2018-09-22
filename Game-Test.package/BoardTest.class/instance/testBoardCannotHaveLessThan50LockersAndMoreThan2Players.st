@@ -6,6 +6,6 @@ testBoardCannotHaveLessThan50LockersAndMoreThan2Players
 	playerOne:= Player name: 'Hector'.
 	playerTwo := Player name: 'Ignacio'.
 	playersList add: playerOne ; add: playerTwo .
-	self should: [ board:= Board lockersQuantity: 49 players:playersList  ] raise: AssertionFailure .
+	self should: [ board:= Board spacesQuantity: 49 players:playersList  ] raise: AssertionFailure .
 	playersList remove: playerTwo .
-	self should: [ board:= Board lockersQuantity: 50 players:playersList  ] raise: AssertionFailure .
+	self should: [ board:= Board spacesQuantity: 50 players:playersList  ] raise: AssertionFailure .

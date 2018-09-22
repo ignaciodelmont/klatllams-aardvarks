@@ -1,10 +1,10 @@
 {
 	"instance" : {
-		"testAPlayerCannotPlayTwoTimesInARow" : "klatllamsaardvarks 9/15/2018 00:47",
-		"testCannotHaveLessThan2PlayersOrlessThan1Dice" : "klatllamsaardvarks 9/14/2018 23:19",
-		"testGameIsNotFinishedIfNobodyHasPlayed" : "klatllamsaardvarks 9/14/2018 23:20",
-		"testWhenGameStartsTheFirstPlayerHasTheTurn" : "klatllamsaardvarks 9/14/2018 23:20",
-		"testGameExistsAndHasTwoDicesAndTwoPlayersAndBoard" : "klatllamsaardvarks 9/14/2018 23:19"
+		"testAPlayerCannotPlayTwoTimesInARow" : "ignaciodelmont 9/19/2018 15:37",
+		"testCannotHaveLessThan2PlayersOrlessThan1Dice" : "ignaciodelmont 9/19/2018 15:37",
+		"testGameIsNotFinishedIfNobodyHasPlayed" : "ignaciodelmont 9/19/2018 15:37",
+		"testWhenGameStartsTheFirstPlayerHasTheTurn" : "ignaciodelmont 9/19/2018 15:37",
+		"testGameExistsAndHasTwoDicesAndTwoPlayersAndBoard" : "ignaciodelmont 9/19/2018 15:37"
 	},
 	"class" : { }
 }

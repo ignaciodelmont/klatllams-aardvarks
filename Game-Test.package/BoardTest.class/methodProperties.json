@@ -1,10 +1,10 @@
 {
 	"instance" : {
-		"testAPlayerCanMoveItsPositionOnBoardBy10Lockers" : "klatllamsaardvarks 9/15/2018 00:40",
-		"testAllThePlayersStartInPositionZeroWhenTheGameStarts" : "klatllamsaardvarks 9/15/2018 00:31",
-		"testBoardCannotHaveLessThan50LockersAndMoreThan2Players" : "klatllamsaardvarks 9/14/2018 23:22",
-		"testAPlayerCannotMoveLessThan1Position" : "klatllamsaardvarks 9/15/2018 00:45",
-		"testBoardExistsAndHas50LockersAnd2Players" : "klatllamsaardvarks 9/15/2018 00:33"
+		"testAPlayerCanMoveItsPositionOnBoardBy10Lockers" : "ignaciodelmont 9/19/2018 15:37",
+		"testAllThePlayersStartInPositionZeroWhenTheGameStarts" : "ignaciodelmont 9/19/2018 15:37",
+		"testBoardCannotHaveLessThan50LockersAndMoreThan2Players" : "ignaciodelmont 9/19/2018 15:37",
+		"testAPlayerCannotMoveLessThan1Position" : "ignaciodelmont 9/19/2018 15:37",
+		"testBoardExistsAndHas50LockersAnd2Players" : "ignaciodelmont 9/22/2018 14:38"
 	},
 	"class" : { }
 }

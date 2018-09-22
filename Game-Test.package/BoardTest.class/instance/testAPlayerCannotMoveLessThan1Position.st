@@ -6,5 +6,5 @@ testAPlayerCannotMoveLessThan1Position
 	playerOne:= Player name: 'Hector'.
 	playerTwo := Player name: 'Ignacio'.
 	playersList add: playerOne ; add: playerTwo .
-	board:= Board lockersQuantity: 50 players:playersList .
+	board:= Board spacesQuantity: 50 players:playersList .
 	self should: [board movePlayer: playerOne positions: 0] raise: AssertionFailure .

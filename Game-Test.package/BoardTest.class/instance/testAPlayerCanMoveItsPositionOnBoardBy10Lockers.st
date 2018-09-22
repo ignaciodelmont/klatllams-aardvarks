@@ -6,6 +6,6 @@ testAPlayerCanMoveItsPositionOnBoardBy10Lockers
 	playerOne:= Player name: 'Hector'.
 	playerTwo := Player name: 'Ignacio'.
 	playersList add: playerOne ; add: playerTwo .
-	board:= Board lockersQuantity: 50 players:playersList .
+	board:= Board spacesQuantity: 50 players:playersList .
 	board movePlayer: playerOne positions: 10.
 	self assert: (board playerPosition: playerOne) equals: 10.
